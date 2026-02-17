@@ -1,0 +1,8 @@
+%python %scala %sql %r : switch to a different language in a cell
+%md                    : markdown for documenting notebooks
+%fs                    : run file system commands
+%sh                    : run shell commands (drivers mode only)
+%pip                   : install python libraries
+%run                   : include /import another notebook into current notebook
+
+  
