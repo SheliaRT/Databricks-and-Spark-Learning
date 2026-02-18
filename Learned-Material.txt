@@ -1,0 +1,15 @@
+Access Methods of Data Lake in Azure:
+
+    - Create Azure Data Lake Gen2 Storage
+
+    - Access Data Lake using Access Keys
+
+    - Access Data Lake using SAS Token
+
+    - Access Data Lake using Service Principal
+
+    - Using Cluster Scoped Authentication
+
+    - Access Data Lake using AAD Credential Pass-through
+
+    - Recommended approach for the course
